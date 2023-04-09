@@ -1,2 +1,2 @@
-# temp_mlops
-This is a temporary created repository just to learn about different tools used in MLOPs
+# Fake News Detection
+This repository is created to develop Fake News Detection app
